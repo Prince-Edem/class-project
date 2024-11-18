@@ -1,0 +1,38 @@
+body {
+  background-color: burlywood;
+}
+a {
+  text-decoration: none;
+  color: #2d4059;
+}
+a:hover {
+  color: beige;
+}
+p {
+  font-family: verdana;
+}
+h1, h2 {
+  text-align: center;
+  color: beige;
+  font-family: sans-serif;
+}
+h1 {
+  font-size: 60px;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+h2 {
+  margin-top: 0;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+footer p {
+  text-align: center;
+  color: #2d4059;
+}
+.links {
+  text-align: center;
+}

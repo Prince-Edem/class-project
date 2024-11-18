@@ -1,0 +1,39 @@
+body {
+  background-color: powderblue;
+}
+p {
+  font-family: verdana;
+}
+a {
+  text-decoration: none;
+  color: orangered;
+}
+a:hover {
+  color: purple;
+}
+h1, h2 {
+  text-align: center;
+  color: purple;
+  font-family: sans-serif;
+}
+h1 {
+  font-size: 60px;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
+h2 {
+  margin-top: 0;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer p {
+  text-align: center;
+  color: orangered;
+}
+.links {
+  text-align: center;
+}
